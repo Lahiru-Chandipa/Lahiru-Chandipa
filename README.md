@@ -4,7 +4,7 @@
 🎓 BSc (Hons) Information Technology – Specializing in Artificial Intelligence (SLIIT)  
 🚀 Passionate about building intelligent systems and scalable full-stack applications
 
-### 🧠 About Me
+### 💫 About Me
 
 * 🤖 Currently focused on **Artificial Intelligence & Machine Learning**
 * 🌐 Foundation in **Full-Stack Development (MERN + Java Spring Boot)**
