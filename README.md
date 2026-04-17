@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lahiru Chandipa
 
 💻 Trainee Software Developer | AI Enthusiast  
-🎓 BSc (Hons) Information Technology – Specializing in Artificial Intelligence (SLIIT)  
+🎓 Undergraduate | BSc (Hons) Information Technology – Specializing in Artificial Intelligence (SLIIT)  
 🚀 Passionate about building intelligent systems and scalable full-stack applications
 
 ### 💫 About Me
